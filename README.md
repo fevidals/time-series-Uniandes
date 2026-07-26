@@ -17,20 +17,9 @@ time-series-forecasting/
 │
 ├── notebooks/
 │   ├── 01_forecasting_principles/
-│   ├── 02_trend_seasonality/
-│   
-│   
-│   
-│   
-│   
-│   
-│   
+│   └── 02_trend_seasonality/
 │
 ├── talleres/                 # course deliverables
-│   
-│   
-│   
-│   
 │
 └── src/                       # reusable functions
     ├── data_utils.py
