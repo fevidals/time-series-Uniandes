@@ -28,3 +28,9 @@ Thumbs.db
 
 # Editor
 .vscode/
+
+# Data files
+.csv
+.dta
+.xlsx
+.xls
